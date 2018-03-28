@@ -5,7 +5,7 @@ Um projeto de piano MIDI sem a necessidade de teclas feito com arduino Uno.
 Através deste projeto é possível ter seu próprio piano, apenas com um Arduino Uno e um Sensor Ultrasônico.
 
 Veja a demonstração:
-<p>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NPcdNTc_kkE/0.jpg)](https://youtu.be/NPcdNTc_kkE)
 
 O projeto é feito a partir do esquema que pode ser visto na imagem abaixo:
